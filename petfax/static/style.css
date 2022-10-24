@@ -1,0 +1,36 @@
+body {
+    background-color: beige;
+}
+
+img {
+    max-height: 200px;
+}
+
+.container {
+    margin: 2em auto;
+    padding: 1em 3em 3em 3em;
+    border-radius: 1em;
+    background: lightblue;
+}
+
+h1 {
+    margin: 0;
+    font-size: 4em;
+    text-align: center;
+}
+
+h2 {
+    margin: 0.5em 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.callout {
+    background: #eee;
+    padding: 0.5em;
+    border-radius: 1em;
+    text-align: center;
+    font-weight: 400;
+}
